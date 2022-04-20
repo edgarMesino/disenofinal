@@ -6,12 +6,12 @@ import { getFirestore, collection, addDoc, getDocs, doc } from 'firebase/firesto
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyAIUnc9A0EptTvWriHNavHxpkavNZEyKms",
-  authDomain: "reactbase2.firebaseapp.com",
-  projectId: "reactbase2",
-  storageBucket: "reactbase2.appspot.com",
-  messagingSenderId: "879840900591",
-  appId: "1:879840900591:web:39af2bce5c2b577407721a"
+  apiKey: "AIzaSyDzpK17emkfYfULcuo3qGKj0e_LLMGxIzY",
+  authDomain: "proyecto3-67c9a.firebaseapp.com",
+  projectId: "proyecto3-67c9a",
+  storageBucket: "proyecto3-67c9a.appspot.com",
+  messagingSenderId: "560731605513",
+  appId: "1:560731605513:web:67927a608a3ea94dca06d8"
 };
 
 // Initialize Firebase
